@@ -3,4 +3,8 @@ function walk(){
 }
 
 
+function eat(){
+    console.log("eat ");
+}
+
 
