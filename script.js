@@ -1,5 +1,5 @@
 function walk(){
-    console.log("im walking ");
+    console.log("im walkings ");
 }
 
 
