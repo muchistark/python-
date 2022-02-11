@@ -11,5 +11,10 @@ function sleep(){
     console.log("eat ");
 }
 
+function drink(){
+    console.log("eat ");
+}
+
+
 
 
