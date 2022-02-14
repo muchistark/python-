@@ -16,7 +16,7 @@ function drink(){
 }
 
 function jump(){
-    console.log("jump d");
+    console.log("jump gd");
 }
 
 
