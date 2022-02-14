@@ -8,13 +8,16 @@ function eat(){
 }
 
 function sleep(){
-    console.log("eat ");
+    console.log("sleep ");
 }
 
 function drink(){
-    console.log("eat ");
+    console.log("drink ");
 }
 
+function jump(){
+    console.log("jump d");
+}
 
 
 
